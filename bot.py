@@ -58,4 +58,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 # PEGA TU TOKEN DE BOT AQUÍ (mantenlo entre las comillas)
-bot.run("MTU2ODc4MDEwMTE3MTAyMzg5Mw.G9ZTq1._s-05529OQbDO0Rdi_onShhncgxuX-LiFxbj7I")
+bot.run("MTU2ODc4MDEwMTE3MTAyMzg5Mw.GZZyOt.jX1zUY17gg6gzBhkU0SkofptmXRCA87gc-Gatk")
